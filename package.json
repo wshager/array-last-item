@@ -1,6 +1,6 @@
 {
   "name": "array-last-item",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Getter/setter for last item in array (TC93 proposal)",
   "main": "index.js",
   "scripts": {
