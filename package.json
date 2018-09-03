@@ -6,13 +6,10 @@
   "scripts": {
     "test": "node ./test"
   },
-  "author": "",
+  "author": "Wouter Hager",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/wshager/array-last-item.git"
   },
-  "maintainers": [
-    "Wouter Hager <wshager@gmail.com>"
-  ],
   "license": "MIT"
 }
