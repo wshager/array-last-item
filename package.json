@@ -1,0 +1,11 @@
+{
+  "name": "array-last-item",
+  "version": "0.0.4",
+  "description": "Getter/setter for last item in array (TC93 proposal)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "author": "",
+  "license": "MIT"
+}
